@@ -1,2 +1,0 @@
-C:\bharani\DotNet\CSharp\FirstConsole\FirstConsole\obj\Release\FirstConsole.csproj.AssemblyReference.cache
-C:\bharani\DotNet\CSharp\FirstConsole\FirstConsole\obj\Release\FirstConsole.csproj.CoreCompileInputs.cache
