@@ -1,0 +1,7 @@
+C:\bharani\DotNet\CSharp\FirstConsole\FirstConsole\bin\Debug\FirstConsole.exe.config
+C:\bharani\DotNet\CSharp\FirstConsole\FirstConsole\bin\Debug\FirstConsole.exe
+C:\bharani\DotNet\CSharp\FirstConsole\FirstConsole\bin\Debug\FirstConsole.pdb
+C:\bharani\DotNet\CSharp\FirstConsole\FirstConsole\obj\Debug\FirstConsole.csproj.AssemblyReference.cache
+C:\bharani\DotNet\CSharp\FirstConsole\FirstConsole\obj\Debug\FirstConsole.csproj.CoreCompileInputs.cache
+C:\bharani\DotNet\CSharp\FirstConsole\FirstConsole\obj\Debug\FirstConsole.exe
+C:\bharani\DotNet\CSharp\FirstConsole\FirstConsole\obj\Debug\FirstConsole.pdb
