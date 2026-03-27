@@ -1,0 +1,8 @@
+C:\bharani\DotNet\Assignments\CSharp\Assignment_2\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe.config
+C:\bharani\DotNet\Assignments\CSharp\Assignment_2\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe
+C:\bharani\DotNet\Assignments\CSharp\Assignment_2\Assignment_2\Assignment_2\bin\Debug\Assignment_2.pdb
+C:\bharani\DotNet\Assignments\CSharp\Assignment_2\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.AssemblyReference.cache
+C:\bharani\DotNet\Assignments\CSharp\Assignment_2\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.CoreCompileInputs.cache
+C:\bharani\DotNet\Assignments\CSharp\Assignment_2\Assignment_2\Assignment_2\obj\Debug\Assignment_2.exe
+C:\bharani\DotNet\Assignments\CSharp\Assignment_2\Assignment_2\Assignment_2\obj\Debug\Assignment_2.pdb
+C:\bharani\DotNet\Assignments\CSharp\Assignment_2\Assignment_2\Assignment_2\obj\Debug\Assignment_2.exe.config
