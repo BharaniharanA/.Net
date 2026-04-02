@@ -1,0 +1,8 @@
+C:\bharani\DotNet\Assessments\CSharp\Assessment_1\Assessment_1\Assessment_1\bin\Debug\Assessment_1.exe.config
+C:\bharani\DotNet\Assessments\CSharp\Assessment_1\Assessment_1\Assessment_1\bin\Debug\Assessment_1.exe
+C:\bharani\DotNet\Assessments\CSharp\Assessment_1\Assessment_1\Assessment_1\bin\Debug\Assessment_1.pdb
+C:\bharani\DotNet\Assessments\CSharp\Assessment_1\Assessment_1\Assessment_1\obj\Debug\Assessment_1.csproj.AssemblyReference.cache
+C:\bharani\DotNet\Assessments\CSharp\Assessment_1\Assessment_1\Assessment_1\obj\Debug\Assessment_1.csproj.CoreCompileInputs.cache
+C:\bharani\DotNet\Assessments\CSharp\Assessment_1\Assessment_1\Assessment_1\obj\Debug\Assessment_1.exe
+C:\bharani\DotNet\Assessments\CSharp\Assessment_1\Assessment_1\Assessment_1\obj\Debug\Assessment_1.pdb
+C:\bharani\DotNet\Assessments\CSharp\Assessment_1\Assessment_1\Assessment_1\obj\Debug\Assessment_1.exe.config
