@@ -1,0 +1,8 @@
+C:\bharani\DotNet\Assignments\CSharp\Assignment_6\Assignment_6\Assignment_6\obj\Debug\Assignment_6.csproj.AssemblyReference.cache
+C:\bharani\DotNet\Assignments\CSharp\Assignment_6\Assignment_6\Assignment_6\obj\Debug\Assignment_6.csproj.CoreCompileInputs.cache
+C:\bharani\DotNet\Assignments\CSharp\Assignment_6\Assignment_6\Assignment_6\bin\Debug\Assignment_6.exe.config
+C:\bharani\DotNet\Assignments\CSharp\Assignment_6\Assignment_6\Assignment_6\bin\Debug\Assignment_6.exe
+C:\bharani\DotNet\Assignments\CSharp\Assignment_6\Assignment_6\Assignment_6\bin\Debug\Assignment_6.pdb
+C:\bharani\DotNet\Assignments\CSharp\Assignment_6\Assignment_6\Assignment_6\obj\Debug\Assignment_6.exe
+C:\bharani\DotNet\Assignments\CSharp\Assignment_6\Assignment_6\Assignment_6\obj\Debug\Assignment_6.pdb
+C:\bharani\DotNet\Assignments\CSharp\Assignment_6\Assignment_6\Assignment_6\obj\Debug\Assignment_6.exe.config
