@@ -1,0 +1,6 @@
+C:\bharani\DotNet\Assignments\CSharp\Assignment_7\Assignment_7\CalculateConsession\bin\Debug\CalculateConsession.dll
+C:\bharani\DotNet\Assignments\CSharp\Assignment_7\Assignment_7\CalculateConsession\bin\Debug\CalculateConsession.pdb
+C:\bharani\DotNet\Assignments\CSharp\Assignment_7\Assignment_7\CalculateConsession\obj\Debug\CalculateConsession.csproj.AssemblyReference.cache
+C:\bharani\DotNet\Assignments\CSharp\Assignment_7\Assignment_7\CalculateConsession\obj\Debug\CalculateConsession.csproj.CoreCompileInputs.cache
+C:\bharani\DotNet\Assignments\CSharp\Assignment_7\Assignment_7\CalculateConsession\obj\Debug\CalculateConsession.dll
+C:\bharani\DotNet\Assignments\CSharp\Assignment_7\Assignment_7\CalculateConsession\obj\Debug\CalculateConsession.pdb
