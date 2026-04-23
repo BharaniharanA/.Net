@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assessment_4", "Assessment_4\Assessment_4.csproj", "{FCB07D36-6566-4312-9D9D-06A2D901DE7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance_Testing", "Distance_Testing\Distance_Testing.csproj", "{BC767F28-05D2-44B9-A354-F60DEF0F368B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB07D36-6566-4312-9D9D-06A2D901DE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB07D36-6566-4312-9D9D-06A2D901DE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB07D36-6566-4312-9D9D-06A2D901DE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB07D36-6566-4312-9D9D-06A2D901DE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC767F28-05D2-44B9-A354-F60DEF0F368B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC767F28-05D2-44B9-A354-F60DEF0F368B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC767F28-05D2-44B9-A354-F60DEF0F368B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC767F28-05D2-44B9-A354-F60DEF0F368B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00894EEA-2473-43E5-A275-32FB7FEAFC70}
+	EndGlobalSection
+EndGlobal
