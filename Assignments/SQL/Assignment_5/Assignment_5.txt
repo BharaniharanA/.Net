@@ -1,0 +1,69 @@
+
+-- 1. Write a T-Sql based procedure to generate complete payslip of a given employee
+create or alter proc sp_payslip @empid int
+as
+begin
+declare @hra decimal,@da decimal,@pf decimal,@it decimal
+declare @deductions decimal,@grosssal decimal,@netsal decimal
+declare @sal decimal,@name varchar(20)
+select @name=ename,@sal=salary from Employees where empno=@empid
+set @hra= @sal*0.1
+set @da=@sal*0.2
+set @pf=@sal*0.08
+set @it=@sal*0.05
+set @deductions=@pf+@it
+set @grosssal=@sal+@hra+@da
+set @netsal=@sal-@deductions
+print '-----------------------'
+print 'Payslip details'
+print ''
+print 'Employee ID: '+cast(@empid as varchar(10))
+print 'Employee Name: '+@name
+print 'Base Salary: '+cast(@sal as varchar(10))
+print 'HRA: '+cast(@hra as varchar(10))
+print 'DA: '+cast(@da as varchar(10))
+print 'PF: '+cast(@pf as varchar(10))
+print 'IT: '+cast(@it as varchar(10))
+print 'Deductions: '+cast(@deductions as varchar(10))
+print 'Gross Salary: '+cast(@grosssal as varchar(10))
+print 'netsal: '+cast(@netsal as varchar(10))
+print '-----------------------'
+end
+
+declare @minid int,@maxid int
+select @minid=min(empno),@maxid=max(empno) from employees
+while @minid <=@maxid
+begin
+if(exists(select 1 from employees where empno=@minid))
+	begin
+		exec sp_payslip @minid
+	end
+	set @minid =@minid+1
+end
+
+--2. Create a trigger to restrict data manipulation on EMP table during General holidays. Display the error message like “Due to Independence day you cannot manipulate data” or "Due To Diwali", you cannot manipulate" etc
+
+create table Holiday
+(
+holiday_date date,
+holiday_name varchar(100)
+)
+
+insert into Holiday values('2026-01-01','New Year'),('2026-08-15','Independence Day'),('2026-10-20','Diwali'),('2026-12-25','Christmas Day')
+
+create or alter trigger trg_restictManipulation
+on emp
+for insert,update,delete
+as
+begin
+	declare @date date ='2026-01-01',@hname varchar(20),@msz varchar(20)
+	select @hname=holiday_name from holiday where @date=holiday_date
+	if @hname is not null
+	begin
+		set @msz='Due to ' + @hname +', you cannot manipulate data'
+		raiserror(@msz,16,1)
+		rollback transaction
+	end
+end
+
+update emp set ename='no name' where empno=7521
