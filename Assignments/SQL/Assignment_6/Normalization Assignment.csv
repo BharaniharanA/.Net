@@ -1,0 +1,25 @@
+﻿Before normalization,,,,,,,,,
+,ClientNo,Propertyno,Cname,Paddress,rentstart,rentfinish,rent,ownerno,oname
+,cr76,pg4,John kay,"6 lawrence st,glasgow",1-Jun-00,31-Aug-01,350,co40,tina murphy
+,,pg16,,"5 Novar Dr,GLasgow",1-Sep-02,1-Sep-02,450,co93,tony shaw
+,cr56,pg4,Aline stewart,"6 lawrence st,glasgow",1-Sep-99,10-Jun-00,350,co40,tina murphy
+,,pg36,,"2 Manor rd,glasgow",10-Oct-00,1-Dec-01,370,co93,tony shaw
+,,pg16,,"5 Novar Dr,GLasgow",1-Nov-02,1-Aug-03,450,co93,tony shaw
+,,,,,,,,,
+,,,,,,,,,
+After normalization,,,,,,,,,
+,,,,,,,,,
+,client,,,property,,,,,
+,ClientNo,cname,,propertyno,paddress,ownerno,,,
+,cr76,John kay,,pg4,"6 lawrence st,glasgow",co40,,,
+,cr56,Aline stewart,,pg16,"2 Manor rd,glasgow",co93,,,
+,,,,pg36,"5 Novar Dr,GLasgow",co93,,,
+,,,,,,,,,
+,,,,,,,,,
+,owner,,,rental,,,,,
+,ownerno,oname,,rentstart,rentfinish,rent,Propertyno,ClientNo,
+,co40,tina murphy,,1-Jun-00,31-Aug-01,350,pg4,cr76,
+,co93,tony shaw,,1-Sep-02,1-Sep-02,450,pg16,cr76,
+,,,,1-Sep-99,10-Jun-00,350,pg4,cr56,
+,,,,10-Oct-00,1-Dec-01,370,pg36,cr56,
+,,,,1-Nov-02,1-Aug-03,450,pg16,cr56,
