@@ -3,23 +3,36 @@
   "WorkspaceRootPath": "C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|c:\\bharani\\dotnet\\assessments\\csharp\\assessment_4\\assessment_4\\assessment_4\\reportmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|solutionrelative:assessment_4\\reportmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC767F28-05D2-44B9-A354-F60DEF0F368B}|Distance_Testing\\Distance_Testing.csproj|c:\\bharani\\dotnet\\assessments\\csharp\\assessment_4\\assessment_4\\distance_testing\\test_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC767F28-05D2-44B9-A354-F60DEF0F368B}|Distance_Testing\\Distance_Testing.csproj|solutionrelative:distance_testing\\test_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|c:\\bharani\\dotnet\\assessments\\csharp\\assessment_4\\assessment_4\\assessment_4\\linq problem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|solutionrelative:assessment_4\\linq problem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\assessment_4\\reportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|solutionrelative:assessment_4\\reportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assessment_4||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|c:\\bharani\\dotnet\\assessments\\csharp\\assessment_4\\assessment_4\\assessment_4\\reportmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|solutionrelative:assessment_4\\reportmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\assessment_4\\interface\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|solutionrelative:assessment_4\\interface\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\assessment_4\\product\\tabularreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|solutionrelative:assessment_4\\product\\tabularreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\assessment_4\\interface\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|solutionrelative:assessment_4\\interface\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC767F28-05D2-44B9-A354-F60DEF0F368B}|Distance_Testing\\Distance_Testing.csproj|c:\\bharani\\dotnet\\assessments\\csharp\\assessment_4\\assessment_4\\distance_testing\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC767F28-05D2-44B9-A354-F60DEF0F368B}|Distance_Testing\\Distance_Testing.csproj|solutionrelative:distance_testing\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|c:\\bharani\\dotnet\\assessments\\csharp\\assessment_4\\assessment_4\\assessment_4\\linq problem\\list_emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB07D36-6566-4312-9D9D-06A2D901DE7D}|Assessment_4\\Assessment_4.csproj|solutionrelative:assessment_4\\linq problem\\list_emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,8 +42,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\Assessment_4\\Linq problem\\Employee.cs",
+              "RelativeDocumentMoniker": "Assessment_4\\Linq problem\\Employee.cs",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\Assessment_4\\Linq problem\\Employee.cs",
+              "RelativeToolTip": "Assessment_4\\Linq problem\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:26:34.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "List_emp.cs",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\Assessment_4\\Linq problem\\List_emp.cs",
+              "RelativeDocumentMoniker": "Assessment_4\\Linq problem\\List_emp.cs",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\Assessment_4\\Linq problem\\List_emp.cs",
+              "RelativeToolTip": "Assessment_4\\Linq problem\\List_emp.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:26:32.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test_class.cs",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\Distance_Testing\\Test_class.cs",
+              "RelativeDocumentMoniker": "Distance_Testing\\Test_class.cs",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\Distance_Testing\\Test_class.cs",
+              "RelativeToolTip": "Distance_Testing\\Test_class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:23:55.857Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -49,26 +101,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Assessment_4",
-              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\Assessment_4\\Assessment_4.csproj",
-              "RelativeDocumentMoniker": "Assessment_4\\Assessment_4.csproj",
-              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\Assessment_4\\Assessment_4.csproj",
-              "RelativeToolTip": "Assessment_4\\Assessment_4.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-23T06:16:13.418Z"
+              "DocumentIndex": 6,
+              "Title": "Distance.cs",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\Distance_Testing\\Distance.cs",
+              "RelativeDocumentMoniker": "Distance_Testing\\Distance.cs",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\Distance_Testing\\Distance.cs",
+              "RelativeToolTip": "Distance_Testing\\Distance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:24:02.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TabularReport.cs",
               "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\Assessment_4\\product\\TabularReport.cs",
               "RelativeDocumentMoniker": "Assessment_4\\product\\TabularReport.cs",
               "ToolTip": "C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\Assessment_4\\product\\TabularReport.cs",
               "RelativeToolTip": "Assessment_4\\product\\TabularReport.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T06:11:59.632Z"
+              "WhenOpened": "2026-04-23T06:11:59.632Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -80,11 +135,12 @@
               "RelativeToolTip": "Assessment_4\\interface\\IReport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T06:12:02.188Z"
+              "WhenOpened": "2026-04-23T06:12:02.188Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ReportMain.cs",
               "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\Assessment_4\\ReportMain.cs",
               "RelativeDocumentMoniker": "Assessment_4\\ReportMain.cs",
@@ -97,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ReportFactory.cs",
               "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\CSharp\\Assessment_4\\Assessment_4\\Assessment_4\\ReportFactory.cs",
               "RelativeDocumentMoniker": "Assessment_4\\ReportFactory.cs",
@@ -105,7 +161,8 @@
               "RelativeToolTip": "Assessment_4\\ReportFactory.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T06:10:35.063Z"
+              "WhenOpened": "2026-04-23T06:10:35.063Z",
+              "EditorCaption": ""
             }
           ]
         }
