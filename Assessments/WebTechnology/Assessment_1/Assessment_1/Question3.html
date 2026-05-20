@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Question 3</title>
+    <link rel="stylesheet" href="Stylesheet1.css" />
+    
+</head>
+<body>
+    <h2>Button event</h2>
+    <div id="container">
+
+    </div>
+    <script>
+        document.getElementById("container").innerHTML = "<button id='btn'>Click me</button>";
+        document.getElementById("btn").addEventListener("click", function () {
+            alert("Button was clicked!");
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Question 2</title>
+    <link rel="stylesheet" href="Stylesheet1.css" />
+
+    <script>
+        function Loop() {
+            var result = "Output:<br/>";
+            for (let i = 0; i <= 15; i++) {
+                if (i % 2 === 0) {
+                    result += i + " is even<br>";
+                } else {
+                    result += i + " is odd<br>";
+                }
+            }
+            document.getElementById("result").innerHTML = result;
+        }
+    </script>
+</head>
+<body>
+    <h2>Iteration of Even and Odd</h2>
+    <div>
+        <button onclick="Loop()">Click me</button>
+        <p id="result"></p>
+    </div>
+</body>
+</html>

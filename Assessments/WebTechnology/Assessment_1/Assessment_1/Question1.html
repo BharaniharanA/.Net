@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Question 1</title>
+    <link rel="stylesheet" href="Stylesheet1.css" />
+    <script>
+        function Multiply() {
+            var No1 = document.getElementById("txtNo1").value;
+            var No2 = document.getElementById("txtNo2").value;
+            var result = No1 * No2;
+            document.getElementById("result").innerHTML = "The result of multiplication is: " + result;
+        }
+        function Divide() {
+            var No1 = document.getElementById("txtNo1").value;
+            var No2 = document.getElementById("txtNo2").value;
+            if (No2 == 0) {
+                document.getElementById("result").innerHTML = "Cannot divide by zero.";
+            } else {
+                var result = No1 / No2;
+                document.getElementById("result").innerHTML = "The result of division is: " + result;
+            }
+        }
+    </script>
+</head>
+<body>
+    <h2>Calculcator</h2>
+    <div>
+        <label id="No1">1st Number:  </label><input type="number" id="txtNo1" />
+        <br />
+        <label id="No2">2st Number:  </label><input type="number" id="txtNo2" />
+        <br />
+        <br/>
+        <button id="btnMultiply" onclick="Multiply()">Multiply</button>
+        <button id="btnDivide" onclick="Divide()">Divide</button>
+        <br />
+        <br />
+        <label id="result"></label>
+    </div>
+</body>
+</html>
