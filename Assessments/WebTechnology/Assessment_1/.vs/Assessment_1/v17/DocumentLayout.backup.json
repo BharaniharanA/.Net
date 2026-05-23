@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|c:\\bharani\\dotnet\\assessments\\webtechnology\\assessment_1\\assessment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|c:\\bharani\\dotnet\\assessments\\webtechnology\\assessment_1\\assessment_1\\question5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\question5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|c:\\bharani\\dotnet\\assessments\\webtechnology\\assessment_1\\assessment_1\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +47,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Program.cs",
-              "RelativeDocumentMoniker": "Assessment_1\\Program.cs",
-              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Program.cs",
-              "RelativeToolTip": "Assessment_1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T06:43:25.099Z",
+              "Title": "Question5.html",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question5.html",
+              "RelativeDocumentMoniker": "Assessment_1\\Question5.html",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question5.html",
+              "RelativeToolTip": "Assessment_1\\Question5.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T08:03:36.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stylesheet1.css",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Stylesheet1.css",
+              "RelativeDocumentMoniker": "Assessment_1\\Stylesheet1.css",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Stylesheet1.css",
+              "RelativeToolTip": "Assessment_1\\Stylesheet1.css",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-20T07:03:38.19Z",
               "EditorCaption": ""
             }
           ]
