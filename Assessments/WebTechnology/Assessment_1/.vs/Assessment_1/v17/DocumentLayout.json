@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\assessment_1\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|c:\\bharani\\dotnet\\assessments\\webtechnology\\assessment_1\\assessment_1\\question2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\question2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|c:\\bharani\\dotnet\\assessments\\webtechnology\\assessment_1\\assessment_1\\question5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\question5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|c:\\bharani\\dotnet\\assessments\\webtechnology\\assessment_1\\assessment_1\\question4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\question4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|c:\\bharani\\dotnet\\assessments\\webtechnology\\assessment_1\\assessment_1\\question7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\question7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|c:\\bharani\\dotnet\\assessments\\webtechnology\\assessment_1\\assessment_1\\question6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\question6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|c:\\bharani\\dotnet\\assessments\\webtechnology\\assessment_1\\assessment_1\\question3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\question3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|c:\\bharani\\dotnet\\assessments\\webtechnology\\assessment_1\\assessment_1\\question8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\question8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|c:\\bharani\\dotnet\\assessments\\webtechnology\\assessment_1\\assessment_1\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|c:\\bharani\\dotnet\\assessments\\webtechnology\\assessment_1\\assessment_1\\question1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E265076-0553-42D6-8599-955B380B1C5F}|Assessment_1\\Assessment_1.csproj|solutionrelative:assessment_1\\question1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,15 +74,119 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Question8.html",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question8.html",
+              "RelativeDocumentMoniker": "Assessment_1\\Question8.html",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question8.html",
+              "RelativeToolTip": "Assessment_1\\Question8.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-25T04:17:33.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Question7.html",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question7.html",
+              "RelativeDocumentMoniker": "Assessment_1\\Question7.html",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question7.html",
+              "RelativeToolTip": "Assessment_1\\Question7.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-25T04:17:31.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Question6.html",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question6.html",
+              "RelativeDocumentMoniker": "Assessment_1\\Question6.html",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question6.html",
+              "RelativeToolTip": "Assessment_1\\Question6.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-25T04:17:32.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question5.html",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question5.html",
+              "RelativeDocumentMoniker": "Assessment_1\\Question5.html",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question5.html",
+              "RelativeToolTip": "Assessment_1\\Question5.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-25T04:03:14.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question4.html",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question4.html",
+              "RelativeDocumentMoniker": "Assessment_1\\Question4.html",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question4.html",
+              "RelativeToolTip": "Assessment_1\\Question4.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-25T04:17:29.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Question3.html",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question3.html",
+              "RelativeDocumentMoniker": "Assessment_1\\Question3.html",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question3.html",
+              "RelativeToolTip": "Assessment_1\\Question3.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-25T04:17:28.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Question2.html",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question2.html",
+              "RelativeDocumentMoniker": "Assessment_1\\Question2.html",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question2.html",
+              "RelativeToolTip": "Assessment_1\\Question2.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-25T04:17:27.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Question1.html",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question1.html",
+              "RelativeDocumentMoniker": "Assessment_1\\Question1.html",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Question1.html",
+              "RelativeToolTip": "Assessment_1\\Question1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-25T04:17:26.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Stylesheet1.css",
               "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Stylesheet1.css",
               "RelativeDocumentMoniker": "Assessment_1\\Stylesheet1.css",
               "ToolTip": "C:\\bharani\\DotNet\\Assessments\\WebTechnology\\Assessment_1\\Assessment_1\\Stylesheet1.css",
               "RelativeToolTip": "Assessment_1\\Stylesheet1.css",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-05-20T07:03:38.19Z",
+              "WhenOpened": "2026-05-25T04:17:34.897Z",
               "EditorCaption": ""
             }
           ]

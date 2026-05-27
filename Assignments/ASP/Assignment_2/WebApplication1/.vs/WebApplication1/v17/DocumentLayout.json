@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{0981B49C-A1DF-4BE7-AAE7-DC3427E4B609}|WebApplication1\\Assignment_2.csproj|solutionrelative:webapplication1\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0981B49C-A1DF-4BE7-AAE7-DC3427E4B609}|WebApplication1\\Assignment_2.csproj|c:\\bharani\\dotnet\\assignments\\asp\\assignment_2\\webapplication1\\webapplication1\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{0981B49C-A1DF-4BE7-AAE7-DC3427E4B609}|WebApplication1\\Assignment_2.csproj|C:\\bharani\\DotNet\\Assignments\\ASP\\Assignment_2\\WebApplication1\\webapplication1\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{0981B49C-A1DF-4BE7-AAE7-DC3427E4B609}|WebApplication1\\Assignment_2.csproj|solutionrelative:webapplication1\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\Products.aspx.cs",
               "ToolTip": "C:\\bharani\\DotNet\\Assignments\\ASP\\Assignment_2\\WebApplication1\\WebApplication1\\Products.aspx.cs",
               "RelativeToolTip": "WebApplication1\\Products.aspx.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowDEAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-23T09:33:04.41Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "WebApplication1\\Products.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-05-23T09:30:26.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T09:30:26.89Z"
             }
           ]
         }

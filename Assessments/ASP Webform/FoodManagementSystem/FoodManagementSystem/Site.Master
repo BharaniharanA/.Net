@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Food System</title>
+    <style>
+        body { font-family:Arial; }
+        .header { background:#333;color:white;padding:15px;}
+        .menu a { margin:10px;color:white;text-decoration:none;}
+        .content { padding:20px;}
+        .footer { background:#eee;padding:10px;text-align:center;}
+    </style>
+</head>
+<body>
+<form runat="server">
+    <div class="header">
+        <h2>Food Order Management</h2>
+        <div class="menu">
+            <a href="MenuList.aspx">Menu Items</a>
+            <a href="AddEditMenu.aspx">Add Menu</a>
+            <a href="OrderStats.aspx">Order Stats</a>
+            <a href="Logout.aspx">Logout</a>
+        </div>
+    </div>
+
+    <div class="content">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+    </div>
+
+    <div class="footer">© 2026 Food App</div>
+</form>
+</body>
+</html>
