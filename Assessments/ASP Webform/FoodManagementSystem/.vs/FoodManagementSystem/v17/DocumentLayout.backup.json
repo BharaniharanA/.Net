@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C643986-5E56-4CA8-AFFF-0E2A43B7FC92}|FoodManagementSystem\\FoodManagementSystem.csproj|C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\foodmanagementsystem\\menulist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{2C643986-5E56-4CA8-AFFF-0E2A43B7FC92}|FoodManagementSystem\\FoodManagementSystem.csproj|solutionrelative:foodmanagementsystem\\menulist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C643986-5E56-4CA8-AFFF-0E2A43B7FC92}|FoodManagementSystem\\FoodManagementSystem.csproj|C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\foodmanagementsystem\\menudetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{2C643986-5E56-4CA8-AFFF-0E2A43B7FC92}|FoodManagementSystem\\FoodManagementSystem.csproj|solutionrelative:foodmanagementsystem\\menudetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C643986-5E56-4CA8-AFFF-0E2A43B7FC92}|FoodManagementSystem\\FoodManagementSystem.csproj|c:\\bharani\\dotnet\\assessments\\asp webform\\foodmanagementsystem\\foodmanagementsystem\\addeditmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{2C643986-5E56-4CA8-AFFF-0E2A43B7FC92}|FoodManagementSystem\\FoodManagementSystem.csproj|solutionrelative:foodmanagementsystem\\addeditmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C643986-5E56-4CA8-AFFF-0E2A43B7FC92}|FoodManagementSystem\\FoodManagementSystem.csproj|C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\foodmanagementsystem\\orderstats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{2C643986-5E56-4CA8-AFFF-0E2A43B7FC92}|FoodManagementSystem\\FoodManagementSystem.csproj|solutionrelative:foodmanagementsystem\\orderstats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C643986-5E56-4CA8-AFFF-0E2A43B7FC92}|FoodManagementSystem\\FoodManagementSystem.csproj|C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\foodmanagementsystem\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{2C643986-5E56-4CA8-AFFF-0E2A43B7FC92}|FoodManagementSystem\\FoodManagementSystem.csproj|solutionrelative:foodmanagementsystem\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{2C643986-5E56-4CA8-AFFF-0E2A43B7FC92}|FoodManagementSystem\\FoodManagementSystem.csproj|c:\\bharani\\dotnet\\assessments\\asp webform\\foodmanagementsystem\\foodmanagementsystem\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C643986-5E56-4CA8-AFFF-0E2A43B7FC92}|FoodManagementSystem\\FoodManagementSystem.csproj|solutionrelative:foodmanagementsystem\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,65 +43,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MenuList.aspx",
-              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\FoodManagementSystem\\MenuList.aspx",
-              "RelativeDocumentMoniker": "FoodManagementSystem\\MenuList.aspx",
-              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\FoodManagementSystem\\MenuList.aspx",
-              "RelativeToolTip": "FoodManagementSystem\\MenuList.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-05-27T06:12:10.766Z",
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\FoodManagementSystem\\Global.asax.cs",
+              "RelativeDocumentMoniker": "FoodManagementSystem\\Global.asax.cs",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\FoodManagementSystem\\Global.asax.cs",
+              "RelativeToolTip": "FoodManagementSystem\\Global.asax.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T06:27:43.921Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddEditMenu.aspx",
-              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\FoodManagementSystem\\AddEditMenu.aspx",
-              "RelativeDocumentMoniker": "FoodManagementSystem\\AddEditMenu.aspx",
-              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\FoodManagementSystem\\AddEditMenu.aspx",
-              "RelativeToolTip": "FoodManagementSystem\\AddEditMenu.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-05-27T06:12:07.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MenuDetails.aspx",
-              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\FoodManagementSystem\\MenuDetails.aspx",
-              "RelativeDocumentMoniker": "FoodManagementSystem\\MenuDetails.aspx",
-              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\FoodManagementSystem\\MenuDetails.aspx",
-              "RelativeToolTip": "FoodManagementSystem\\MenuDetails.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-05-27T06:12:04.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\FoodManagementSystem\\Login.aspx",
-              "RelativeDocumentMoniker": "FoodManagementSystem\\Login.aspx",
-              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\FoodManagementSystem\\Login.aspx",
-              "RelativeToolTip": "FoodManagementSystem\\Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-05-27T06:09:02.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderStats.aspx",
-              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\FoodManagementSystem\\OrderStats.aspx",
-              "RelativeDocumentMoniker": "FoodManagementSystem\\OrderStats.aspx",
-              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\ASP Webform\\FoodManagementSystem\\FoodManagementSystem\\OrderStats.aspx",
-              "RelativeToolTip": "FoodManagementSystem\\OrderStats.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-05-27T06:08:45.903Z"
             }
           ]
         }
