@@ -1,0 +1,30 @@
+﻿@model Movie_MVC.Models.Movie
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<div class="container mt-4">
+    <h2>Add Movie</h2>
+
+    @using (Html.BeginForm())
+    {
+        <div class="mb-3">
+            <label>Movie Name</label>
+            @Html.TextBoxFor(m => m.MovieName, new { @class = "form-control" })
+        </div>
+
+        <div class="mb-3">
+            <label>Director Name</label>
+            @Html.TextBoxFor(m => m.DirectorName, new { @class = "form-control" })
+        </div>
+
+        <div class="mb-3">
+            <label>Release Date</label>
+            @Html.TextBoxFor(m => m.DateOfRelease, "{yyyy-MM-dd}", new { type = "date", @class = "form-control" })
+        </div>
+
+        <button type="submit" class="btn btn-success">Save</button>
+        <a href="@Url.Action("Index")" class="btn btn-secondary">Cancel</a>
+    }
+</div>

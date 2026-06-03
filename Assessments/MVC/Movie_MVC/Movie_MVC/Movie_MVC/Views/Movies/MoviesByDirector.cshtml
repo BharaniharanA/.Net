@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Movie_MVC.Models.Movie>
+
+@{
+    ViewBag.Title = "MoviesByDirector";
+}
+
+<div class="container mt-4">
+    <h2>Movies by Director</h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-warning">No movies found.</div>
+    }
+    else
+    {
+        <table class="table table-bordered table-striped">
+            <thead class="table-success">
+                <tr>
+                    <th>Movie Name</th>
+                    <th>Director</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.MovieName</td>
+                        <td>@item.DirectorName</td>
+                        
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

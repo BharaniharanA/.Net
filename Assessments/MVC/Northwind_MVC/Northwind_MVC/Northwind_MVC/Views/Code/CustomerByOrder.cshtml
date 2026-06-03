@@ -1,0 +1,45 @@
+﻿@model Northwind_MVC.Models.Customer
+
+@{
+    ViewBag.Title = "CustomerByOrder";
+}
+
+
+<h2>Customers Details</h2>
+
+<div class="container mt-4">
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped table-hover shadow">
+            <thead class="table-dark text-center">
+                <tr>
+                    <th>Customer ID</th>
+                    <th>Company Name</th>
+                    <th>Contact Name</th>
+                    <th>Contact Title</th>
+                    <th>Address</th>
+                    <th>City</th>
+                    <th>Region</th>
+                    <th>Postal Code</th>
+                    <th>Country</th>
+                    <th>Phone</th>
+                    <th>Fax</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="text-center">
+                    <td>@Model.CustomerID</td>
+                    <td>@Model.CompanyName</td>
+                    <td>@Model.ContactName</td>
+                    <td>@Model.ContactTitle</td>
+                    <td>@Model.Address</td>
+                    <td>@Model.City</td>
+                    <td>@Model.Region</td>
+                    <td>@Model.PostalCode</td>
+                    <td>@Model.Country</td>
+                    <td>@Model.Phone</td>
+                    <td>@Model.Fax</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

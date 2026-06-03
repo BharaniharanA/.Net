@@ -1,0 +1,10 @@
+﻿<h2>Search Customer by Order ID</h2>
+
+@using (Html.BeginForm("CustomerByOrder", "Code"))
+{
+    <label>Enter Order ID:</label>
+    <input type="number" name="orderId" required />
+    <br />
+    <br />
+    <input type="submit" value="Search" />
+}

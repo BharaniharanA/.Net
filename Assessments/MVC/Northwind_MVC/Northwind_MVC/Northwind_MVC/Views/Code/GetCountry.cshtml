@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "GetCountry";
+}
+
+<h2>Search Customers by Country</h2>
+
+@using (Html.BeginForm("GetCustomersByCountry", "Code"))
+{
+    <label>Enter Country Name:</label>
+    <input type="text" name="country" required />
+    <br /><br />
+    <input type="submit" value="Search" />
+}
+
