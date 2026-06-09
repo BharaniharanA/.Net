@@ -42,15 +42,17 @@ namespace Movie_MVC.Controllers
         }
 
         [HttpGet]
+
         public ActionResult Delete(int id)
         {
-            return RedirectToAction("DeleteConfirmed/" + id);
+            var movie = repo.GetById(id);
+            return View(movie);
         }
 
-        [HttpPost, ActionName("Delete")]
-        public ActionResult DeleteConfirmed(int id)
+        [HttpPost]
+        public ActionResult Delete(Movie movie)
         {
-            repo.Delete(id);
+            repo.Delete(movie.Mid);
             return RedirectToAction("Index");
         }
 

@@ -7,20 +7,12 @@
       "RelativeMoniker": "D:0:0:{90CCACFD-629F-42B2-A476-EB59106765B9}|Movie_MVC\\Movie_MVC.csproj|solutionrelative:movie_mvc\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90CCACFD-629F-42B2-A476-EB59106765B9}|Movie_MVC\\Movie_MVC.csproj|c:\\bharani\\dotnet\\assessments\\mvc\\movie_mvc\\movie_mvc\\movie_mvc\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90CCACFD-629F-42B2-A476-EB59106765B9}|Movie_MVC\\Movie_MVC.csproj|solutionrelative:movie_mvc\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90CCACFD-629F-42B2-A476-EB59106765B9}|Movie_MVC\\Movie_MVC.csproj|c:\\bharani\\dotnet\\assessments\\mvc\\movie_mvc\\movie_mvc\\movie_mvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CCACFD-629F-42B2-A476-EB59106765B9}|Movie_MVC\\Movie_MVC.csproj|solutionrelative:movie_mvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90CCACFD-629F-42B2-A476-EB59106765B9}|Movie_MVC\\Movie_MVC.csproj|c:\\bharani\\dotnet\\assessments\\mvc\\movie_mvc\\movie_mvc\\movie_mvc\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{90CCACFD-629F-42B2-A476-EB59106765B9}|Movie_MVC\\Movie_MVC.csproj|solutionrelative:movie_mvc\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90CCACFD-629F-42B2-A476-EB59106765B9}|Movie_MVC\\Movie_MVC.csproj|c:\\bharani\\dotnet\\assessments\\mvc\\movie_mvc\\movie_mvc\\movie_mvc\\views\\movies\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{90CCACFD-629F-42B2-A476-EB59106765B9}|Movie_MVC\\Movie_MVC.csproj|solutionrelative:movie_mvc\\views\\movies\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90CCACFD-629F-42B2-A476-EB59106765B9}|Movie_MVC\\Movie_MVC.csproj|c:\\bharani\\dotnet\\assessments\\mvc\\movie_mvc\\movie_mvc\\movie_mvc\\views\\movies\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{90CCACFD-629F-42B2-A476-EB59106765B9}|Movie_MVC\\Movie_MVC.csproj|solutionrelative:movie_mvc\\views\\movies\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{90CCACFD-629F-42B2-A476-EB59106765B9}|Movie_MVC\\Movie_MVC.csproj|c:\\bharani\\dotnet\\assessments\\mvc\\movie_mvc\\movie_mvc\\movie_mvc\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90CCACFD-629F-42B2-A476-EB59106765B9}|Movie_MVC\\Movie_MVC.csproj|solutionrelative:movie_mvc\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,54 +50,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MovieRepository.cs",
-              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\MVC\\Movie_MVC\\Movie_MVC\\Movie_MVC\\Repository\\MovieRepository.cs",
-              "RelativeDocumentMoniker": "Movie_MVC\\Repository\\MovieRepository.cs",
-              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\MVC\\Movie_MVC\\Movie_MVC\\Movie_MVC\\Repository\\MovieRepository.cs",
-              "RelativeToolTip": "Movie_MVC\\Repository\\MovieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T06:08:00.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MoviesByYear.cshtml",
-              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\MVC\\Movie_MVC\\Movie_MVC\\Movie_MVC\\Views\\Movies\\MoviesByYear.cshtml",
-              "RelativeDocumentMoniker": "Movie_MVC\\Views\\Movies\\MoviesByYear.cshtml",
-              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\MVC\\Movie_MVC\\Movie_MVC\\Movie_MVC\\Views\\Movies\\MoviesByYear.cshtml",
-              "RelativeToolTip": "Movie_MVC\\Views\\Movies\\MoviesByYear.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T06:05:23.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MoviesByDirector.cshtml",
-              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\MVC\\Movie_MVC\\Movie_MVC\\Movie_MVC\\Views\\Movies\\MoviesByDirector.cshtml",
-              "RelativeDocumentMoniker": "Movie_MVC\\Views\\Movies\\MoviesByDirector.cshtml",
-              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\MVC\\Movie_MVC\\Movie_MVC\\Movie_MVC\\Views\\Movies\\MoviesByDirector.cshtml",
-              "RelativeToolTip": "Movie_MVC\\Views\\Movies\\MoviesByDirector.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T06:05:23.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\MVC\\Movie_MVC\\Movie_MVC\\Movie_MVC\\Views\\Movies\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Movie_MVC\\Views\\Movies\\Edit.cshtml",
-              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\MVC\\Movie_MVC\\Movie_MVC\\Movie_MVC\\Views\\Movies\\Edit.cshtml",
-              "RelativeToolTip": "Movie_MVC\\Views\\Movies\\Edit.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\MVC\\Movie_MVC\\Movie_MVC\\Movie_MVC\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Movie_MVC\\Views\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\MVC\\Movie_MVC\\Movie_MVC\\Movie_MVC\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "Movie_MVC\\Views\\Movies\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T06:01:33.109Z",
+              "WhenOpened": "2026-06-03T06:51:35.639Z",
               "EditorCaption": ""
             },
             {
@@ -116,9 +69,22 @@
               "RelativeDocumentMoniker": "Movie_MVC\\Views\\Movies\\Index.cshtml",
               "ToolTip": "C:\\bharani\\DotNet\\Assessments\\MVC\\Movie_MVC\\Movie_MVC\\Movie_MVC\\Views\\Movies\\Index.cshtml",
               "RelativeToolTip": "Movie_MVC\\Views\\Movies\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T05:57:41.197Z",
+              "WhenOpened": "2026-06-03T06:48:26.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\bharani\\DotNet\\Assessments\\MVC\\Movie_MVC\\Movie_MVC\\Movie_MVC\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Movie_MVC\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\bharani\\DotNet\\Assessments\\MVC\\Movie_MVC\\Movie_MVC\\Movie_MVC\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Movie_MVC\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T06:22:04.79Z",
               "EditorCaption": ""
             }
           ]

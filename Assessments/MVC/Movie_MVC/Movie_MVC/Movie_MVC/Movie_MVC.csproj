@@ -201,7 +201,7 @@
     <Content Include="Views\Movies\MoviesByDirector.cshtml" />
     <Content Include="Views\Movies\ByYear.cshtml" />
     <Content Include="Views\Movies\ByDirector.cshtml" />
-    <Content Include="Views\Movies\DeleteConfirmed.cshtml" />
+    <Content Include="Views\Movies\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
